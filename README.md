@@ -1,3 +1,5 @@
+
+<img src="https://media.giphy.com/media/f0glSh0Sr80KQgZKLQ/giphy.gif" width="1440" height="144"/>
 <h1 align="center">Hi 👋, I'm Soham Dey</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 
